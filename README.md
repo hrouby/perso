@@ -1,3 +1,3 @@
 # perso
 
-**test git hub**
+**tests git hub**
